@@ -1,7 +1,6 @@
 # PujaTestingHello-Sanjay
 PLS
-
-// editting readme file in master branch
+// editting actually in readme edits branch
 SLP
 Step 1- Commit
 Check Server GitHub Window ReadMe file: Should not see the edits
