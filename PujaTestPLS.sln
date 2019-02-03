@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PujaTestPLS", "PujaTestPLS\PujaTestPLS.csproj", "{6EF4909E-42DC-4E80-AB75-36740E71F635}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EF4909E-42DC-4E80-AB75-36740E71F635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF4909E-42DC-4E80-AB75-36740E71F635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF4909E-42DC-4E80-AB75-36740E71F635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF4909E-42DC-4E80-AB75-36740E71F635}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B946799-C8BB-4775-ADAE-D3B64E4DF410}
+	EndGlobalSection
+EndGlobal
